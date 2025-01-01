@@ -6,7 +6,8 @@
 - 📫 How to reach me: [Email](mailto:basnetrajesh245@gmail.com) or [LinkedIn](https://www.linkedin.com/in/rajesh-basnet-360188340/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love coding and building small projects to improve my skills, and I enjoy learning new programming languages!
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6773a3e570129741a84d629d?variant=dark&roadmaps=python%2Cbackend" alt="roadmap.sh"/></a>
+[![roadmap.sh](https://roadmap.sh/card/wide/6773a3e570129741a84d629d?variant=dark&roadmaps=python%2Cbackend)](https://roadmap.sh)
 
 
 
